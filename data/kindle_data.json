@@ -163,5 +163,117 @@
     "2025-09-14",
     "2025-09-15",
     "2025-09-16"
-  ]
+  ],
+  "current_daily_streak": {
+    "duration": 0
+  },
+  "longest_daily_streak": {
+    "duration": 26,
+    "readingMarketplace": 1,
+    "utcEndTime": "2024-09-12T07:00:00.000Z",
+    "start": "2024-08-18T00:00:00.000Z",
+    "end": "2024-09-12T00:00:00.000Z"
+  },
+  "current_weekly_streak": {
+    "duration": 0
+  },
+  "longest_weekly_streak": {
+    "duration": 33,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-04-03T07:00:00.000Z",
+    "start": "2024-08-18T00:00:00.000Z",
+    "end": "2025-04-03T00:00:00.000Z"
+  },
+  "current_weekly_streak_state": "inactive",
+  "goal_info": {
+    "goals": {},
+    "titles_read": [
+      {
+        "asin": "F1111259CE024C39A5F4955FD89FBEEE",
+        "read_event_id": "be10c31d-d88a-47ab-a766-4ae7a3b06548",
+        "date_read": "2025-07-10T05:18:11-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "6C7D585E540A4240A00922BBC11B66D9",
+        "read_event_id": "4a2c861e-b9f4-420b-8880-37a2828cf0a5",
+        "date_read": "2025-01-07T03:15:10-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "817539580A064166939A6A40FBB621EB",
+        "read_event_id": "b146d0b2-7466-41a6-90cc-7f3be8942816",
+        "date_read": "2024-09-09T05:34:57Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "257931610A324CDE8B5857015DDE68E2",
+        "read_event_id": "840fd9b7-93ac-4347-b35d-66d737d3a91d",
+        "date_read": "2024-08-30T05:36:03Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "DC5AFC806F1141D2BCC16319665D7847",
+        "read_event_id": "c16f383a-a43d-457d-bbde-2720364612d1",
+        "date_read": "2024-08-26T15:26:36Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "AA14485752E3440FA7DD553CFA5E5D02",
+        "read_event_id": "6db7f36f-85ad-4400-91bc-c1d1ad0b9d05",
+        "date_read": "2024-08-24T16:19:42Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      }
+    ],
+    "is_backfill_completed": true
+  },
+  "preferences": null,
+  "urcGatingWeblabTreatment": "T1",
+  "achievements_data": {
+    "daysLeftInCurrentChallenge": 56,
+    "totalAvailableAchievements": 15,
+    "totalEarnedAchievements": 0,
+    "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
+        "quantity": 0,
+        "title": "Gold Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_SilverReader_21fe19f7-5807-3fb7-a491-c14e7a519764.png",
+        "quantity": 0,
+        "title": "Silver Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookish_f259d25a-2f1c-39de-98e3-53bf2714e52d.png",
+        "quantity": 0,
+        "title": "Bookish",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_e8c40f32-b610-30b0-8b5f-dcdf49566089.png",
+        "quantity": 0,
+        "title": "Bibliophile",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      }
+    ]
+  }
 }
